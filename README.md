@@ -19,14 +19,19 @@ Welcome to my GitHub profile! I'm passionate about transforming raw data into ac
 - Economic indicator forecasting
 
 ## Languages & Tools
-Data Analysis:   Python (Pandas, NumPy), SQL
-Visualization:   Matplotlib, Seaborn, Tableau
-Finance Tools:   QuantConnect, Backtrader, Bloomberg Terminal (learning)
-Cloud:           Google Colab, Jupyter Notebooks
+|Data Analysis|   Python (Pandas, NumPy), SQL
+|Visualization|   Matplotlib, Seaborn, Tableau
+|Finance Tools|   QuantConnect, Backtrader, Bloomberg Terminal (learning)
+|Cloud|           Google Colab, Jupyter Notebooks
+                                                                                                                                           
+## 💼 Portfolio Projects
+### 📽️ Analyzing Movie Success Factors
+**Goal:** Understand what makes a movie financially successful.  
+**Tools:** Python, Pandas, Seaborn, Matplotlib  
+**Skills:** EDA, Correlation, Hypothesis Testing  
+**[View Notebook](Python/Movie_Success_Analysis.ipynb)**
 
-## 🧠 Table of Contents
-- [About Me](#-about-me)
-- [Portfolio Projects](#-portfolio-projects)
-- [Education](#-education)
-- [Certificates](#-certificates)
-- [Contact](#-contact)
+  ## 📫 Contact
+- 📧 Email: your.email@example.com  
+- 💼 LinkedIn: [your-linkedin](https://linkedin.com/in/yourname)  
+- 🧑‍💻 GitHub: [your-username](https://github.com/your-username)
