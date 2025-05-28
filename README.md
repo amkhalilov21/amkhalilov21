@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi, I'm Ahmed Khalil 👋
 
-<!--
-**amkhalilov21/amkhalilov21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository is my personal Data Analytics/Science portfolio to:
+- Showcase my skills and projects
+- Track my progress and growth
+- Share code and visualizations
+- Connect with fellow data enthusiasts!
 
-Here are some ideas to get you started:
+📊 **Data Enthusiast** | 📈 **Stock Market Analyst** | 🎓 **Finance Student at AOU**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# about me
+Welcome to my GitHub profile! I'm passionate about transforming raw data into actionable insights, with a special focus on financial markets and investment strategies.
+
+## Current Interests
+- Financial data analysis and predictive modeling
+- Algorithmic trading strategies
+- Market sentiment analysis
+- Portfolio risk management
+- Economic indicator forecasting
+
+## Languages & Tools
+Data Analysis:   Python (Pandas, NumPy), SQL
+Visualization:   Matplotlib, Seaborn, Tableau
+Finance Tools:   QuantConnect, Backtrader, Bloomberg Terminal (learning)
+Cloud:           Google Colab, Jupyter Notebooks
+
+## 🧠 Table of Contents
+- [About Me](#-about-me)
+- [Portfolio Projects](#-portfolio-projects)
+- [Education](#-education)
+- [Certificates](#-certificates)
+- [Contact](#-contact)
