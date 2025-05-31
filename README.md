@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [About](#about20%me)
+- [About](#about)
 - [Portfolio Projects](#portfolio-projects)
   - Python
     - [Netflix (GitHub)](https://github.com/amkhalilov21/amkhalilov21/blob/main/Python%20Projects/notebook.ipynb)
@@ -25,7 +25,7 @@ This repository is my personal Data Analytics/Science portfolio to:
 
 📊 **Data Enthusiast** | 📈 **Stock Market Analyst** | 🎓 **Finance Student at AOU**
 
-##about me
+##about
 Welcome to my GitHub profile! I'm passionate about transforming raw data into actionable insights, with a special focus on financial markets and investment strategies.
 
 ## Current Interests
