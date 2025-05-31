@@ -38,5 +38,5 @@ Current Interests
  
   ##  Contact
 - 📧 Email: ahmedmk1192@gmail.com 
-- 💼 LinkedIn: [your-linkedin](https://linkedin.com/in/yourname)  
+- 💼 LinkedIn: [your-linkedin](https://www.linkedin.com/in/ahmed-khalil-aa635722a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
 - 🧑‍💻 GitHub: [your-username](https://github.com/your-username)
