@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
-- [About](#about)
+- [About](#about20%me)
 - [Portfolio Projects](#portfolio-projects)
   - Python
-    - [Stock Market Analysis (GitHub)](https://github.com/amkhalilov21/amkhalilov21/blob/main/Python%20Projects/notebook.ipynb)
+    - [Netflix (GitHub)](https://github.com/amkhalilov21/amkhalilov21/blob/main/Python%20Projects/notebook.ipynb)
     - [Stock Market Analysis (Colab)](https://colab.research.google.com/github/amkhalilov21/amkhalilov21/blob/main/Python%20Projects/notebook.ipynb)
   - SQL
     - [Project Title](#)
