@@ -25,7 +25,7 @@ This repository is my personal Data Analytics/Science portfolio to:
 
 📊 **Data Enthusiast** | 📈 **Stock Market Analyst** | 🎓 **Finance Student at AOU**
 
-# about me
+##about me
 Welcome to my GitHub profile! I'm passionate about transforming raw data into actionable insights, with a special focus on financial markets and investment strategies.
 
 ## Current Interests
