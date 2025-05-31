@@ -34,7 +34,7 @@ Current Interests
 **Goal:** Understand what makes a movie financially successful.  
 **Tools:** Python, Pandas, Seaborn, Matplotlib  
 **Skills:** EDA, Correlation, Hypothesis Testing  
-**[View Notebook](https://github.com/amkhalilov21/a-project/blob/main/notebook.ipynb)**
+**[View Notebook](https://github.com/amkhalilov21/a-project/blob/main/netflix%20movie%20analysis/notebook.ipynb)**
  
   ##  Contact
 - 📧 Email: ahmedmk1192@gmail.com 
