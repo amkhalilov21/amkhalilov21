@@ -1,32 +1,26 @@
-## Hi, I'm Ahmed Khalil 👋
-
 ## Table of Contents
 
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
   - Python
-    - [Netflix (GitHub)](https://github.com/amkhalilov21/amkhalilov21/blob/main/Python%20Projects/notebook.ipynb)
-    - [Stock Market Analysis (Colab)](https://colab.research.google.com/github/amkhalilov21/amkhalilov21/blob/main/Python%20Projects/notebook.ipynb)
+    - [Stock Market Analysis](https://github.com/amkhalilov21/amkhalilov21/blob/main/Python%20Projects/notebook.ipynb)
   - SQL
-    - [Project Title](#)
   - Excel / Google Sheets
-  - Tableau → [View Tableau Projects](#)
+  - Tableau
   - Power BI
 - [Education](#education)
 - [Certificates](#certificates)
 - [Contact](#contact)
 
+---
 
-This repository is my personal Data Analytics/Science portfolio to:
-- Showcase my skills and projects
-- Track my progress and growth
-- Share code and visualizations
-- Connect with fellow data enthusiasts!
+## About
+
+Hi, I’m AM Khalilov — a data enthusiast passionate about solving problems using Python, SQL, and data visualization tools like Tableau and Power BI.  
+This repository showcases my portfolio projects, highlighting my skills in analytics, automation, and storytelling with data.
+
 
 📊 **Data Enthusiast** | 📈 **Stock Market Analyst** | 🎓 **Finance Student at AOU**
-
-##about
-Welcome to my GitHub profile! I'm passionate about transforming raw data into actionable insights, with a special focus on financial markets and investment strategies.
 
 ## Current Interests
 - Financial data analysis and predictive modeling
@@ -46,7 +40,7 @@ Welcome to my GitHub profile! I'm passionate about transforming raw data into ac
 **Goal:** Understand what makes a movie financially successful.  
 **Tools:** Python, Pandas, Seaborn, Matplotlib  
 **Skills:** EDA, Correlation, Hypothesis Testing  
-**[View Notebook](Python/Movie_Success_Analysis.ipynb)**
+**[View Notebook](https://github.com/amkhalilov21/amkhalilov21/blob/main/Python%20Projects/notebook.ipynb)**
 
   ## 📫 Contact
 - 📧 Email: your.email@example.com  
