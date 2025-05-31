@@ -1,5 +1,22 @@
 ## Hi, I'm Ahmed Khalil 👋
 
+## Table of Contents
+
+- [About](#about)
+- [Portfolio Projects](#portfolio-projects)
+  - Python
+    - [Stock Market Analysis (GitHub)](https://github.com/amkhalilov21/amkhalilov21/blob/main/Python%20Projects/notebook.ipynb)
+    - [Stock Market Analysis (Colab)](https://colab.research.google.com/github/amkhalilov21/amkhalilov21/blob/main/Python%20Projects/notebook.ipynb)
+  - SQL
+    - [Project Title](#)
+  - Excel / Google Sheets
+  - Tableau → [View Tableau Projects](#)
+  - Power BI
+- [Education](#education)
+- [Certificates](#certificates)
+- [Contact](#contact)
+
+
 This repository is my personal Data Analytics/Science portfolio to:
 - Showcase my skills and projects
 - Track my progress and growth
